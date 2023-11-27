@@ -1,4 +1,4 @@
 print('Hello world')
-print('more')
+print('delete')
 
 
